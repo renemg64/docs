@@ -1,5 +1,5 @@
 # Laravel Mix
-
+# Cambios en mix
 - [Introduction](#introduction)
 
 <a name="introduction"></a>
